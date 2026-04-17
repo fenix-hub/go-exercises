@@ -1,3 +1,5 @@
+// https://go.dev/tour/methods/22
+
 package main
 
 import (
